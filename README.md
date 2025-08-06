@@ -72,4 +72,4 @@ This is a command-line tool. You can access the local network address here: 👉
 Contributions are welcome! Open an issue or submit a pull request for improvements.
 
 📄 License
-This project is created and licensed by Mr. Mohit Lohani. It is licensed under the MIT License.
+This project is created and licensed by Mr. Mohit Lohani. 
